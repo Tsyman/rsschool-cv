@@ -6,6 +6,7 @@
 ##### telegram: [@Tsyman23](https://t.me/Tsyman23)
 ##### e-mail: xxxmaximxx777@gmail.com
 ##### github: [@Tsyman](https://github.com/Tsyman)
+##### vk: [Tsyman123](https://vk.com/tsyman123)
 
 ## Summary 
  ##### Learn new things on courses and apply them in practice to start an it career 
