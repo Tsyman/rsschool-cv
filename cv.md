@@ -17,6 +17,7 @@
  * ##### CSS
  * ##### Basic JS
  * ##### VS Code
+ * ##### Git
 
 ## Experience
 #### I have’t experience in commercial development, but I did exercises from various books and online courses:
